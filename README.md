@@ -1,6 +1,6 @@
 # AI-YOLO-DETECTION
 
-This is YOLO implementation was used in a major group project to build an intelligent mobile robot. 
+This is YOLO implementation was used in a major group project to build an intelligent mobile robot. (Link: https://cpefr-my.sharepoint.com/:f:/g/personal/nadim_ben-hassen_cpe_fr/Es3vKBCCKbtCrGMVlK9czWEBJZku4C8nCP6BKb1qPfvW_A?e=aQCu4O)
 
 In this section, I will detail the technical aspects and the algorithms used to allow the robot to detect and track humans in its environment in real time. 
 
